@@ -1,5 +1,7 @@
 # vue-crash-2021
 
+From https://www.youtube.com/watch?v=qZXt1Aom3Cs
+
 ## Project setup
 ```
 npm install
